@@ -1,12 +1,12 @@
-# 🌍 Global AI Job Market & Salary Trends 2025
+# Global AI Job Market & Salary Trends 2025
 
-📊 **Project Report – Targeted Analysis for SME Tech Recruiters**
+**Project Report – Targeted Analysis for SME Tech Recruiters**
 
 This project analyzes the global AI job market and salary trends using a dataset of 15,000+ postings from over 50 countries. Designed specifically for SME tech recruiters, the report combines data cleaning, descriptive analysis, and predictive modeling to support talent acquisition strategies in the evolving AI workforce.
 
 ---
 
-## 🔍 1. Project Context
+# 1. Project Context
 
 In a rapidly evolving technological landscape, small and medium-sized enterprises (SMEs) in the technology sector face increased challenges in attracting and retaining AI talent. With rising competition, evolving skill demands, and salary inflation driven by innovation waves, HR teams must understand both **market dynamics** and **salary benchmarks** to make informed recruitment decisions.
 
@@ -14,7 +14,7 @@ This project provides market-level insights and a predictive salary model to sup
 
 ---
 
-## 🎯 2. Project Objectives
+## 2. Project Objectives
 
 The project consists of two main parts:
 
@@ -30,7 +30,7 @@ The project consists of two main parts:
 
 ---
 
-## ❓  3. Revised Analytical Questions
+## 3. Revised Analytical Questions
 
 This exploratory analysis focuses on the following key questions based on available data:
 
@@ -43,7 +43,7 @@ This exploratory analysis focuses on the following key questions based on availa
 *Note: The original question regarding job roles affected by AI disruption is not addressed in this phase due to data limitations.*
 ---
 
-## 👥 4. Target Audience
+## 4. Target Audience
 
 This project is intended for:
 
